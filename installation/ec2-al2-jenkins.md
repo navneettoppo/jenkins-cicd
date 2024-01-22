@@ -1,6 +1,4 @@
-# jenkins-cicd
-jenkins installtion and CICD steps
-
+# jenkins
 Downloading and installing Jenkins
 Completing the previous steps enables you to download and install Jenkins on AWS. To download and install Jenkins:
 
